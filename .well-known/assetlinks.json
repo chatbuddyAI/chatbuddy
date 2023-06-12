@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.gabrielibenye.chatbuddy",
+      "sha256_cert_fingerprints": [
+        "56:62:FB:D5:69:1D:25:4E:DA:7A:AD:90:A6:D9:84:F0:94:42:AD:79:14:C7:DE:31:DA:B7:C1:9A:30:35:20:2F"
+      ]
+    }
+  }
+]
